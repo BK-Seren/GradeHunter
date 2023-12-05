@@ -29,9 +29,9 @@
 - 캐릭터를 좌우 방향키로 움직이며, (+) 과제(green, blue)만 먹어서 각 스테이지의 미션 게이지를 채워
   총 8개(1학년 1학기-4학년 2학기)의 스테이지를 클리어하고, 논문(퀴즈 게임)을 통과하여 졸업 엔딩을 보는 게임입니다.
 
-<p align="center">
+<div align="center">
   ![gradehunter](https://github.com/BK-Seren/GradeHunter/assets/106124616/ff4d71ca-afb7-4c38-8ecf-4b6915f012e2)
-</p>
+
 
 
   ## ⭐️ 팀 소개

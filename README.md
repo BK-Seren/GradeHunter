@@ -35,29 +35,30 @@
 
 
   ## ⭐️ 팀 소개
-- 팀 이름 : JAVABARA
+  팀 이름 : JAVABARA
+  
   JAVA + (카피)바라 의 합성어로, 자바를 섭렵해서 프로젝트를 진행하겠다는 의미로 만들어졌습니다.
   카피바라 영어는 CAPYBARA이지만, 한국식 발음으로 카피라고 읽으므로, 흡수할 수 있는 건 모두
   카피하겠다는 포부를 담았습니다.
 
-- 김봄 : 전남대학교 인공지능학부 22
-- GuidePanel, RankPanel 개발
-- 아이디어 최초 제시
-- 기획, 설계
+> 김봄 : 전남대학교 인공지능학부 22
+  - GuidePanel, RankPanel 개발
+  - 아이디어 최초 제시
+  - 기획, 설계
 
-- 박현민 : 전남대학교 인공지능학부 22
-- GamePlayPanel, GameLogic, Item, Player, ItemType 개발
-- 기획, 설계
+>  박현민 : 전남대학교 인공지능학부 22
+  - GamePlayPanel, GameLogic, Item, Player, ItemType 개발
+  - 기획, 설계
 
-- 서보경 : 전남대학교 인공지능학부 22
-- Main, MainPanel, ClearPanel, Quiz, QuizItem, Quiz1-6, QuizSelectPanel, EndingPanel, RealEnding, EndcreditsPanel 개발
-- 디자인
-- 총괄 및 디버깅
-- 기획, 설계
+> 서보경 : 전남대학교 인공지능학부 22
+  - Main, MainPanel, ClearPanel, Quiz, QuizItem, Quiz1-6, QuizSelectPanel, EndingPanel, RealEnding, EndcreditsPanel 개발
+  - 디자인
+  - 총괄 및 디버깅
+  - 기획, 설계
 
-- 정서윤 : 전남대학교 인공지능학부 22
-- GameOver, GameOver와 연관된 패널 전환, Quiz1-6 정답 여부 처리 개발
-- 기획, 설계
+> 정서윤 : 전남대학교 인공지능학부 22
+  - GameOver, GameOver와 연관된 패널 전환, Quiz1-6 정답 여부 처리 개발
+  - 기획, 설계
 
 
   ## 버전

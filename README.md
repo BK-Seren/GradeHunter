@@ -50,7 +50,7 @@
   - GamePlayPanel, GameLogic, Item, Player, ItemType 개발
   - 기획, 설계
 
-🦒 서보경 : 전남대학교 인공지능학부 22
+🥔 서보경 : 전남대학교 인공지능학부 22
   - Main, MainPanel, ClearPanel, Quiz, QuizItem, Quiz1-6, QuizSelectPanel, EndingPanel, RealEnding, EndcreditsPanel 개발
   - 디자인
   - 총괄 및 디버깅

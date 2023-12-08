@@ -25,8 +25,6 @@ public class RealEnding extends JPanel {
 
         setLayout(null); // 널 레이아웃 사용
 
-        System.out.print(MainPanel.ending);
-
         if(MainPanel.gen == 0) backgroundImage = new ImageIcon("images/end_m.png").getImage();
         else backgroundImage = new ImageIcon("images/end_f.png").getImage();
 

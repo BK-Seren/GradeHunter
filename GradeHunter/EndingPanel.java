@@ -24,8 +24,6 @@ public class EndingPanel extends JPanel {
 
         setLayout(null); // 널 레이아웃 사용
 
-        System.out.print(MainPanel.ending);
-
         // 1이면 교수님께서 좋은 말씀을, 아니면 졸업을 못시켜주겠다는 말씀을 함
         if(MainPanel.ending == 1) backgroundImage = new ImageIcon("images/pf_re.png").getImage();
         else backgroundImage = new ImageIcon("images/pf_be.png").getImage();
